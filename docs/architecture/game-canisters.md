@@ -5,10 +5,6 @@ sidebar_position: 5
 
 # Game canisters
 
-The executables
-
-## Description
-
 The game canisters are where the game instances (the matches) are executed. **All matches run entirely on-chain, even if they involve dozens of players and may take several minutes to complete**. This is made possible by using compute slices that ensure they won't exceed the IC instruction limits.
 
 They also tell the platform where to find the assets needed to display the matches and **specifies the skills that an NFT player needs to possess** in order to participate.

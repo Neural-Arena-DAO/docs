@@ -5,10 +5,6 @@ sidebar_position: 3
 
 # Frontend canister
 
-The User Interface
-
-## Description
-
 The frontend canister, written in the Typescript language, is the UI component of the platform.
 
 It is also entirely independent from the games and NFT's, allowing an unlimited number of them.

@@ -4,10 +4,6 @@ sidebar_position: 2
 
 # Backend canister
 
-The orchestrator
-
-## Description
-
 The backend canister, written in the Rust language, is the main component of the platform. 
 
 Its jobs include handling user accounts, registering games and NFTs, and scheduling matches and championships (WIP) that were created by users. All the results from the finished matches and championships are also stored in this canister.
