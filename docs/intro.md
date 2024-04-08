@@ -8,6 +8,8 @@ sidebar_position: 1
 
 Leveraging features only present on the **Internet Computer**, our platform runs game matches **fully on-chain**, with NFTs players utilizing their "artificial brains" (**neural networks**) to play against one another.
 
+In simple terms, Neural Arena is the ideal fusion of gaming, cryptocurrency, and AI. No hype, no false partnerships, no empty promises, no future plans of impossible to do AI on-chain.
+
 ## TL;DR
 
 - Each **NFT** contains the visual features (the 3d model with animations and sound effects) and the weights and bias of its **artificial neural network** (NN) trained using **deep reinforcement learning** (RL). All the contents (the NN data, the 3d model and the sound effects) are **stored on-chain**.
