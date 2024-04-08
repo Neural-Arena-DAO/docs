@@ -4,9 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-As you would expect reading the introduction, Neural Arena isn't a simple web3 app or a basic smart contract. To make things work, numerous components are required.
-
-## The components list
+As you would expect reading the introduction, Neural Arena isn't a simple web3 app or a basic smart contract. To make things work, numerous components are required, including:
 
 1. The backend canister
 2. The frontend canister

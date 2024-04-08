@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Introduction
 
-**Neural Arena** is a revolutionary, world-first, decentralized web3 game platform where users place their **AI-enhanced NFT characters (AI players)** to compete against each other in matches to **improve their NFT's experience** (XP) and to **win prizes**.
+**Neural Arena** is a revolutionary, world-first, decentralized web3 game platform where users place their **AI-enhanced NFT characters (AI players)** to compete against each other in matches to **improve their NFT's experience** (XP) and to **win prizes** in crypto.
 
 Leveraging features only present on the **Internet Computer**, our platform runs game matches **fully on-chain**, with NFTs players utilizing their "artificial brains" (**neural networks**) to play against one another.
 
-In simple terms, Neural Arena is the ideal fusion of gaming, cryptocurrency, and AI. No hype, no false partnerships, no empty promises, no future plans of impossible to do AI on-chain.
+In simple terms, Neural Arena is the ideal fusion of gaming, cryptocurrency, and AI. There's no hype, no false partnerships, no empty promises, no future plans of impossible to do AI on-chain, no web3 "magic" app that could work much better in web2.
 
 ## TL;DR
 
