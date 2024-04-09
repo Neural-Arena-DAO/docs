@@ -10,9 +10,9 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Description | Value |
 | ----------- | ----: |
 | Supply at genesis (NAT) | 100,000,000 |
-| Tokens for sale (NAT) | 20,000,000 |
-| Founding team balance (NAT) | 17,000,000 |
-| Treasury balance (NAT) | 63,000,000 |
+| Tokens for sale (NAT) | 35,000,000 |
+| Founding team balance (NAT) | 30,000,000 |
+| Treasury balance (NAT) | 35,000,000 |
 | Initial reward rate | 4% |
 | Final reward rate | 2% |
 | Transition duration | 8 years |
