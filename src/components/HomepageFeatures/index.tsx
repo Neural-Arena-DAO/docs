@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Documentation',
-    url: '',
+    url: 'docs/docs/main',
     icon: '📚',
     description: (
       <center>
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Whitepaper',
-    url: 'docs/Whitepaper/intro',
+    url: 'docs/whitepaper/intro',
     icon: '📖',
     description: (
       <center>
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Blog',
-    url: '',
+    url: 'docs/blog/main',
     icon: '📰',
     description: (
       <center>
