@@ -77,21 +77,18 @@ const config: Config = {
       },
       items: [
         {
-          sidebarId: 'docsSidebar',
           position: 'left',
           label: '📚 Docs',
           activeBasePath: 'documents',
           to: 'documents/main',
         },
         {
-          sidebarId: 'whitepaperSidebar',
           position: 'left',
           label: '📖 Whitepaper',
           activeBasePath: 'whitepaper',
           to: 'whitepaper/intro',
         },
         {
-          sidebarId: 'blogSidebar',
           position: 'right',
           label: '📰 Blog',
           activeBasePath: 'blog',

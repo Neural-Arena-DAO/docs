@@ -1,13 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Supply and allocation
+# Allocation
 
-## Supply
-The initial supply of $NAT will be **100,000,000** (one hundred million) tokens.
-
-## Allocation at the genesis
+## At the genesis
 
 When the SNS DAO is successfully launched, the allocation of the total supply of $NAT will be as follows:
 
