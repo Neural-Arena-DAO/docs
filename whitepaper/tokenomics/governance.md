@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Governance
@@ -12,14 +12,19 @@ The dissolve delay is the minimum time period over which a neuron owner locks up
 
 ## Voting power
 
+With the parameters defined at the configuration page, the voting power at genesis will be divided between the sale participants and the founding team (assuming 100% of participation) as follows:
 
+![voting power at TGE](./img/voting-power-tge.png)
+
+In conclusion, as illustrated in the chart above, the team will possess less voting power than the other participants: 49.29% vs 50.71%.
 
 ## First proposals
 
 After the decentralization swap is finished, the team will submit proposals to the Neural Arena DAO that include:
 
 - Transfer ICP and NAT to DEXes to enable trading of the tokens and add liquidity.
-- Transfer ICP to cover the expenses budget for operations, compensation, and team expansion.
-- Transfer ICP to cover the creation of a Swiss foundation .
+- Request ICP to cover the expenses budget for operations, compensation, and team expansion, after submitting a detailed proposal.
+- Establish of a Neural Arena DAO Association in Switzerland to provide us an official recognition, protect our community and team, empowering the platform to operate with confidence, credibility, and a robust legal framework.
+- Contract an auditing firm to do a complete code review.
 - Motions to list NAT in crypto price data sites, such as CoinMarkCap and Coingecko.
 
