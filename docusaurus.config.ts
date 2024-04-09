@@ -32,13 +32,38 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
+        docs: false,
+        blog: {
+          blogTitle: 'Neural Arena blog!',
+          blogDescription: 'Everything Neural Arena!',
+          postsPerPage: 'ALL',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+    ],
+  ],
+  
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        path: 'documents',
+        routeBasePath: "documents",
+        sidebarPath: './sidebars.ts',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'whitepaper',
+        path: 'whitepaper',
+        routeBasePath: "whitepaper",
+        sidebarPath: './sidebars.ts',
+      },
     ],
   ],
 
@@ -52,22 +77,25 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docsSidebar',
           position: 'left',
           label: '📚 Docs',
+          activeBasePath: 'documents',
+          to: 'documents/main',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'whitepaperSidebar',
           position: 'left',
           label: '📖 Whitepaper',
+          activeBasePath: 'whitepaper',
+          to: 'whitepaper/intro',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'blogSidebar',
           position: 'right',
           label: '📰 Blog',
+          activeBasePath: 'blog',
+          to: 'blog',
         },
       ],
     },
@@ -78,11 +106,11 @@ const config: Config = {
           items: [
             {
               label: '📚 Docs',
-              to: '/docs/docs/main',
+              to: 'documents/main',
             },
             {
               label: '📖 Whitepaper',
-              to: '/docs/whitepaper/intro',
+              to: 'whitepaper/intro',
             },
           ],
         },
@@ -90,7 +118,7 @@ const config: Config = {
           items: [
             {
               label: '📰 Blog',
-              to: '/docs/blog/main',
+              to: 'blog',
             },
           ],
         },
