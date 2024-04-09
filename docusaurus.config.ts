@@ -46,7 +46,6 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Neural Arena Docs',
       logo: {
         alt: 'Logo',
         src: 'img/logo.svg',
@@ -56,7 +55,19 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Whitepaper',
+          label: '📚 Docs',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: '📖 Whitepaper',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'right',
+          label: '📰 Blog',
         },
       ],
     },
@@ -64,19 +75,33 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
           items: [
             {
-              label: 'Whitepaper',
+              label: '📚 Docs',
+              to: '/docs/intro',
+            },
+            {
+              label: '📖 Whitepaper',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'More',
           items: [
             {
-              label: 'GitHub',
+              label: '📰 Blog',
+              to: '/docs/intro',
+            },
+          ],
+        },
+        {
+          items: [
+            {
+              label: '📱 App',
+              href: 'https://localhost:1234',
+            },
+            {
+              label: '👨‍💻 GitHub',
               href: 'https://github.com/av1ctor/neuralarena-docs',
             },
           ],

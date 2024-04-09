@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Neural Arena Token
+# Token
 
 The ICRC-1 token, called NAT (Neural Arena Token), will be required to participate in matches and championships.
 
