@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Whitepaper',
-    url: 'docs/intro',
+    url: 'docs/Whitepaper/intro',
     icon: '📖',
     description: (
       <center>

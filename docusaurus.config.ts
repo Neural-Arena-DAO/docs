@@ -78,11 +78,11 @@ const config: Config = {
           items: [
             {
               label: '📚 Docs',
-              to: '/docs/intro',
+              to: '/docs/Docs/main',
             },
             {
               label: '📖 Whitepaper',
-              to: '/docs/intro',
+              to: '/docs/Whitepaper/intro',
             },
           ],
         },
@@ -90,7 +90,7 @@ const config: Config = {
           items: [
             {
               label: '📰 Blog',
-              to: '/docs/intro',
+              to: '/docs/Blog/main',
             },
           ],
         },
