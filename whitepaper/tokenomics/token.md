@@ -17,7 +17,9 @@ After every match finishes, all NAT tokens paid by participating players are dis
 ### Game creator + Match winner (85%)
 The game creator will always receive the largest portion of the earnings. This is because the game canister will utilize its Cycles (which must be purchased using ICPs) to cover the costs of running the matches on the Internet Computer. Depending on the complexity of the game, billions of instructions may need to be executed for each player until the match is concluded.  
 
-In addition to enhancing the rarity and value of their NFTs by gaining experience (XP), winners can also receive a portion of the tokens. It's up to the game to determine the amount it will distribute to the match's winner. For instance, if the game allocates 25% of the total match revenue to the winning player, and there are at least 4 players in a single match, the winner will have upgraded their NFT at no cost.
+In addition to enhancing the rarity and value of their NFTs by gaining experience (XP), winners can also receive a portion of the tokens. It's up to the game to determine the amount it will distribute to the match's winner. For instance, if the game allocates 25% of the total match revenue to the winning player, and there are at least 4 players in a single match, the winner will have upgraded their NFT at no cost. Considering the same allocation, if more than 4 players participated, then the winner will earn more NAT than he/she spent to join the match.
+
+The larger the portion allocated to the winner by the game, the more attractive and popular the game may become.
 
 ### Platform treasury (10%)
 As a fee, the platform will deduct 10% of the earnings from each match, which will be transferred directly to the DAO's treasury account.

@@ -16,7 +16,7 @@ With the parameters defined at the configuration page, the voting power at genes
 
 ![voting power at TGE](./img/voting-power-tge.png)
 
-In conclusion, as illustrated in the chart above, the team will possess less voting power than the other participants: 49.5% vs 50.5%.
+In conclusion, as illustrated in the chart above, the team will possess less voting power than the other participants: 49.01% vs 50.99%.
 
 ## First proposals
 
