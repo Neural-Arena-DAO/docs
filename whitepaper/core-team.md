@@ -17,8 +17,8 @@ Known for his strong work ethic and passion for software development and team ma
 
 ![v1ctor](./img/victor.png)
 
-## **Michelle Luna** - graphic designer
-Proficient in tools such as Figma and Inkscape, she excels at creating user-friendly and visually appealing interfaces.  
+## **Michelle Luna** - art director
+Proficient in tools such as Figma and Inkscape, she excels at creating user-friendly and visually appealing interfaces and logos.  
 
 She loves computers and crypto (and dogs too)!
 

@@ -1,0 +1,8 @@
+{
+  "label": "Third-party",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Components and services implemented and controlled by third-parties"
+  }
+}
