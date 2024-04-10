@@ -6,7 +6,7 @@ sidebar_position: 89
 
 The Neural Arena core team, having received no seed funds or grants, currently consists of:
 
-## **André Vicentini** - CEO & CTO
+## **André Vicentini** - founder
 With over 24 years of experience as a software developer, skilled in programming languages such as C, C#, Java, Rust, Python, JavaScript, TypeScript, Solidity, and Motoko, along with an MBA in Project Management, "v1ctor" is known as a 10x engineer by his peers (though he modestly believes it to be an exaggeration! maybe 5x 😎).  
 
 His most notable open-source project is the FreeBASIC compiler, boasting over 1 million downloads in total, having seen collaboration from dozens of contributors from around the World and garnered thousands of users over the years. One of his projects also achieved 5th place at the Dfinity Supernova hackathon in 2022, while he was still learning about Motoko and development of web3 apps on IC. Additionally, he enjoys participating in bounties and has secured first place in three of them, one from Dfinity and two from IcDevs.org.

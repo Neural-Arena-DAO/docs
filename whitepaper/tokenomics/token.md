@@ -8,7 +8,17 @@ The ICRC-1 token, called NAT (Neural Arena Token), will be required to participa
 
 It will be also be used, when staked as a neuron, to participate on the DAO governance.
 
-## Revenue distribution
+## Revenue sources
+
+All transactions on the platform will require $NAT, including:
+
+1. A player joining a match.
+2. A game developer promoting a game.
+3. A NFT creator promoting a NFT collection.
+
+Additionally, the DAO's treasury will receive the **entire earnings** of every game and NFT released by the DAO itself.
+
+## Match revenue distribution
 
 After every match finishes, all NAT tokens paid by participating players are distributed as follows:
 
@@ -27,5 +37,5 @@ As a fee, the platform will deduct 10% of the earnings from each match, which wi
 ### Burned (5%)  
 To offset the annual NAT inflation, which is used to reward NAT holders that have staked their tokens on neurons to participate in DAO governance, 5% of the match revenues will be burned. As the platform gains popularity, the impact of inflation on the token price will decrease.
 
-## Cost to play
+## Cost to join a match
 The fee charged for users to participate in a match is always determined by the game creator. Similar to web2, games should have the freedom to set the amount they will charge their players.
