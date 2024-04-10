@@ -19,5 +19,5 @@ As it could be expected after reading the introduction page, Neural Arena isn't 
 
 ## The big picture
 
-![Logo](./img/logo-vert.svg)
+![Logo](./img/architecture.svg)
 
