@@ -13,7 +13,6 @@ As it could be expected after reading the introduction page, Neural Arena isn't 
 |Skill trainers|Game engines|
 |NFT generators|Game canisters|
 |Canister Development Kit|Game asset canisters|
-|Rendering engines| |
 
 *Note: The components and services at the third-party column can also be controlled by the Neural Arena DAO by either implementing them (as detailed in the roadmap page regarding a game and NFT currently in development that will be owned by the DAO) or acquiring them using funds from the DAO treasury.
 
