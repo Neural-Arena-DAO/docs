@@ -123,7 +123,7 @@ const config: Config = {
           items: [
             {
               label: '📱 App',
-              href: 'https://localhost:1234',
+              href: 'https://neuralarena.ai',
             },
             {
               label: '👨‍💻 GitHub',
