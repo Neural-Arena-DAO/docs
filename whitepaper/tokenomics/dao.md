@@ -4,9 +4,7 @@ sidebar_position: 2
 
 # DAO
 
-## Reasons
-
-Establishing the Neural Arena DAO is the most important event to guarantee both the development and growth of the platform for two main reasons:
+The creation of the Neural Arena DAO is arguably the most significant development in ensuring the platform's continued growth and maturation, for two key reasons:
 
 ### Build trustness
 
@@ -14,4 +12,4 @@ To become one of the top applications in the IC ecosystem, we believe that an ap
 
 ### Team growth
 
-The developer team dedicated considerable effort to research, design, and implement a platform that is, thanks to the IC features, pretty unique in the crypto environment. They funded themselves during this time without grants or funds from investors. To further advance the platform, complete the roadmap, and establish a recognized brand, the team must be expanded, which requires capital.
+The developer team dedicated considerable effort to research, design, and implement a platform that is, thanks to the IC features, pretty unique in the crypto environment. They funded themselves during this time without grants or funds from investors. To further advance the platform, complete the roadmap, and establish a recognized brand, the team must be expanded, which requires capital infusion.

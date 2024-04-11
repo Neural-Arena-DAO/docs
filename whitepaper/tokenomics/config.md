@@ -15,8 +15,8 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Treasury balance (NAT) | 35,000,000 |
 | Initial reward rate | 4% |
 | Final reward rate | 2% |
-| Transition duration | 8 years |
-| Ledger transaction fee (NAT) | 0.1 |
+| Reward transition duration | 4 years |
+| Ledger transaction fee (NAT) | 0.01 |
 | Proposal rejection fee (NAT) | 100 |
 | Minimum direct participation (ICP) | 150,000 |
 | Maximal direct participation (ICP) | 300,000 |
@@ -24,10 +24,10 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Maximal individual participation (ICP) | 100,000 |
 | Minimum participants | 100 |
 | Minimum dissolve delay | 6 months |
-| Maximum dissolve delay | 4 years |
+| Maximum dissolve delay | 2 years |
 | Dissolve delay bonus | 120% |
 | Minimal neuron stake (NAT) | 10 |
-| Maximum neuron age | 8 years |
+| Maximum neuron age | 2 years |
 | Age bonus | 200% |
 | Sale duration | 14 days |
 | Neuron fund participation | true |

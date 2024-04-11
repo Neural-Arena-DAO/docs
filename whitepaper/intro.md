@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Leveraging features only present on the **Internet Computer**, our platform runs game matches **fully on-chain**, with NFT players utilizing their "artificial brains" (**neural networks**) to play against one another.
 
-In simple terms, Neural Arena is the ideal fusion of gaming, cryptocurrency, and AI. There's no hype, no false partnerships, no empty promises, no future plans of impossible to do AI on-chain, no "magic" web3 app that could work much better in web2.
+In simple terms, Neural Arena is the ideal fusion of gaming, cryptocurrency, and AI. There's no empty promises, no false partnerships, no future plans of impossible to do AI on-chain, no "magic" web3 app that could perform much better in web2.
 
 ## TL;DR
 

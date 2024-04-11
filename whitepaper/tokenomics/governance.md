@@ -8,15 +8,13 @@ sidebar_position: 6
 
 Anyone will be able stake NAT to earn new NAT in the form of voting rewards. Staking NAT will create a neuron that can vote on proposals that update, manage, and configure the platform. A neuron can also be configured to vote automatically by following other neuron.
 
-The dissolve delay is the minimum time period over which a neuron owner locks up their staked NAT tokens.
-
 ## Voting power
 
 With the parameters defined at the configuration page, the voting power at genesis will be divided between the sale participants and the founding team (assuming 100% of participation) as follows:
 
 ![voting power at TGE](./img/voting-power-tge.png)
 
-In conclusion, as illustrated in the chart above, the team will possess less voting power than the other participants: 49.01% vs 50.99%.
+In conclusion, as illustrated in the chart above, the team will possess less voting power than the other participants: 48.06% vs 51.94%.
 
 ## First proposals
 

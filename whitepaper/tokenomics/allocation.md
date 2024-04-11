@@ -10,6 +10,8 @@ When the SNS DAO is successfully launched, the allocation of the total supply of
 
 ![match renevue distribution](./img/token-allocation.png)
 
+Note: Assuming 65,000 ICP as the Neuro Fund (NF) participation; however, this value can fluctuate daily and will only be known exactly when the swap ends.
+
 ### SNS Sale
 **35%** of the supply, or **35,000,000** (thirty-five million) tokens, will be made available for sale, to raise funds and decentralize the platform governance.  
 

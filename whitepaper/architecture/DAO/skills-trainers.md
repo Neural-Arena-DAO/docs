@@ -11,4 +11,4 @@ While each NFT collection has the freedom to develop its own trainer for specifi
 
 A game creator can also utilize its game engine to train specific skills required for participation in their game's matches. They can then create their **own NFT collection or sell/distribute the training data** (the neural network weights and biases) to be used by a third-party NFT creators.
 
-Currently training must be done off-chain until Internet Computer add support for **GPU subnets**. When on-chain training becomes feasible, we also plan to enable **users to teach their NFTs how to perform the tasks**, thereby allowing human assistance to create more advanced AI players.
+Currently training must be done off-chain until Internet Computer add support for **GPU subnets**. When on-chain training becomes feasible, we also plan to enable **users to teach their NFTs how to perform the tasks**, allowing the human assistance to create more advanced AI players.
