@@ -8,4 +8,4 @@ Since the beginning of the development of the platform, when we had no idea if o
 
 Together with the founding team, at genesis, the only owners of the platform will be the SNS swap participants and nobody else.
 
-Reiterating what we stated earlier: there's no empty promises, no false partnerships, no plans of impossible to do AI on-chain, no "magic" web3 app that could perform much better in web2. No fluff, just hard work.
+Reiterating what we stated earlier: there are no empty promises, no false partnerships, no plans of impossible to do AI on-chain, no "magic" web3 app that could perform much better in web2. No fluff, just hard work.
