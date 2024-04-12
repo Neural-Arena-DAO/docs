@@ -35,7 +35,7 @@ The larger the portion allocated to the winner by the game, the more attractive 
 ### Platform treasury (20%)
 As a fee, the platform will deduct 20% of the earnings from each match, which will be transferred directly to the DAO's treasury account.
 
-Note: If it is a match involving one of the DAO's games, then the treasury will also receive the portion allocated to the game creator.
+Note: If it is a match involving one of the DAO's games, then the **treasury will also receive** the portion allocated to the game creator.
 
 ### Burned (5%)  
 To offset the annual NAT inflation, which is used to reward NAT holders that have staked their tokens on neurons to participate in DAO governance, 5% of the match revenues will be burned. As the platform gains popularity, the impact of inflation on the token price will decrease.
