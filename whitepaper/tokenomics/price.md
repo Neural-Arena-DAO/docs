@@ -4,12 +4,12 @@ sidebar_position: 8
 
 # Price
 
-With 35% of the total supply for sale, the price range of each NAT token will be:
+With 21% of the total supply for sale, the price range of each NAT token will be:
 
 | Raised directly (ICP) | Raised NF (ICP) | Token price (ICP) | Token price (USD) |
 | --------------------: | --------------: | ----------------: | ----------------: |
-| 150,000 | 65,000 | 0.00614 | $ 0.07371 |
-| 300,000 | 65,000 | 0.01042 | $ 0.12514 |
+| 150,000 | 65,000 | 0.010 | $ 0.12 |
+| 300,000 | 65,000 | 0.017 | $ 0.20 |
 
 ![token price](./img/price.png)
 

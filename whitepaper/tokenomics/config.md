@@ -10,9 +10,9 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Description | Value |
 | ----------- | ----: |
 | Supply at genesis (NAT) | 100,000,000 |
-| Tokens for sale (NAT) | 35,000,000 |
-| Founding team balance (NAT) | 30,000,000 |
-| Treasury balance (NAT) | 35,000,000 |
+| Tokens for sale (NAT) | 21,000,000 |
+| Founding team balance (NAT) | 18,000,000 |
+| Treasury balance (NAT) | 61,000,000 |
 | Initial reward rate | 4% |
 | Final reward rate | 2% |
 | Reward transition duration | 4 years |
@@ -25,7 +25,7 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Minimum participants | 100 |
 | Minimum dissolve delay | 6 months |
 | Maximum dissolve delay | 2 years |
-| Dissolve delay bonus | 120% |
+| Dissolve delay bonus | 110% |
 | Minimal neuron stake (NAT) | 10 |
 | Maximum neuron age | 2 years |
 | Age bonus | 200% |

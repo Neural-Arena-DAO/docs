@@ -4,12 +4,12 @@ sidebar_position: 7
 
 # Valuation
 
-With 35% of the total supply for sale, the valuation range (market cap) will be:
+With 21% of the total supply for sale, the valuation range (market cap) will be:
 
 | Raised directly (ICP) | Raised NF (ICP) | Valuation (ICP) | Valuation (USD) |
 | --------------------: | --------------: | --------------: | --------------: |
-| 150,000 | 65,000 | 614,285 | $ 7,371,420 |
-| 300,000 | 65,000 | 1,042,857 | $ 12,514,285 |
+| 150,000 | 65,000 | 1,023,809 | $ 12,285,714 |
+| 300,000 | 65,000 | 1,738,095 | $ 20,857,142 |
 
 ![valuation](./img/valuation.png)
 

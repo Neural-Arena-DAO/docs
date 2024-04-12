@@ -13,4 +13,4 @@ Currently, each game can feature **up to 10 different maps**. Each map can be **
 
 A game canister operates independently of NFTs. **A match can involve NFTs from different collections**. If they possess the required skills (meaning they were trained to perform a specific task and have the corresponding weights and biases of that neural network stored) and the required animations, they can part in that game.
 
-A game canister can only be published on the platform if the proposal is approved by the Neural Arena DAO. Every time a match if finished, the **game canister receives a portion of the fees** (set to 85% at the moment).
+A game canister can only be published on the platform if the proposal is approved by the Neural Arena DAO. Every time a match if finished, the **game canister receives a portion of the fees** (set to 75% at the moment).

@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Treasury
 
-When the SNS decentralization sale finish, the DAO will be in control of a treasury composed by ICP (the proceeeds from the sale) and $NAT tokens (the 35% of the total supply).
+When the SNS decentralization sale finish, the DAO will be in control of a treasury composed by ICP (the proceeeds from the sale) and $NAT tokens (the 61% of the total supply).
 
 The treasury, stored in both the ICP ledger account and the $NAT ledger account of the DAO, will be allocated through proposals that must be approved by DAO members.
 
