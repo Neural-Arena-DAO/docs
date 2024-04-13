@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Treasury
 
-When the SNS decentralization sale finish, the DAO will be in control of a treasury composed by ICP (the proceeeds from the sale) and $NAT tokens (the 61% of the total supply).
+When the SNS decentralization sale finish, the DAO will be in control of a treasury composed by ICP (the proceeds from the sale) and $NAT tokens (the 61% of the total supply).
 
 The treasury, stored in both the ICP ledger account and the $NAT ledger account of the DAO, will be allocated through proposals that must be approved by DAO members.
 
@@ -19,6 +19,8 @@ To provide liquidity for trading $NAT, we will propose transferring NAT tokens a
 As with any organization, the DAO will need to compensate its team of collaborators and developers, as well as cover operational and administrative expenses to maintain and expand the platform.
 
 Each proposal should outline the activities, milestones, and resources required to achieve the goals. The initial plan is to propose budget allocations every 6 months.
+
+The initial strategy involves allocating 60% of the ICP treasury over a **span of four years** to support the development and maintenance of the platform, marketing campaigns, and creation of games and NFTs owned by the DAO. We plan to allocate 25% in the first year to drive the initial growth of the app with the team expansion, gradually reducing to 20%, 10%, and finally 5% in the fourth year. By then, we hope that the revenue generated from app fees and DAO-owned games and NFTs will cover the ongoing expenses.
 
 ### Championships
 

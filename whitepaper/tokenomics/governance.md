@@ -21,8 +21,8 @@ In conclusion, as illustrated in the chart above, the team will possess less vot
 After the decentralization swap is finished, the team will submit proposals to the Neural Arena DAO that include:
 
 - Transfer ICP and NAT to DEXes to enable trading of the tokens and add liquidity.
-- Request ICP to cover the expenses budget for operations, compensation, and team expansion, after submitting a detailed proposal.
 - Establish of a Neural Arena DAO Association in Switzerland to provide us an official recognition, protect our community and team, empowering the platform to operate with confidence, credibility, and a robust legal framework.
 - Contract an auditing firm to do a complete code review.
 - Motions to list NAT in crypto price data sites, such as CoinMarkCap and Coingecko.
-
+- Lock 87.5% of the ICP treasury on 4 NNS neurons, with ICP being staked as follows: 12.5% for 6 months, 10% for 12 months, 10% for 18 months, 10% for 24 months, 5% for 36 months, and 40% for 48 months.
+- Request ICP to cover the expenses budget for operations, compensation, and team expansion, after submitting a detailed proposal.

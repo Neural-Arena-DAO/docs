@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Market cap
 
-With 21% of the total supply for sale, the market cap range, will be:
+With 21% of the total supply for sale, the market cap range will be:
 
 ### Circulating supply
 
