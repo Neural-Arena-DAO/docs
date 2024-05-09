@@ -31,4 +31,4 @@ Notes:
 <small>**circulating_supply = total_supply - treasury** (see: [defi_aggregator](https://github.com/Neutrinomic/defi_aggregator/blob/4659c3592ababa5e8c94257e26161773e43090df/src/main.mo#L1162))</small>
 2. For the fully diluted calculation, the total supply at genesis was used
 3. Considering a ICP/USD ratio of $ 15,00
-4. Assuming 65,000 ICP as the Neuro Fund (NF) participation; however, this value can fluctuate daily and will only be known exactly when the swap ends.
+4. Assuming 65,000 ICP as the Neuron Fund (NF) participation; however, this value can fluctuate daily and will only be known exactly when the swap ends.

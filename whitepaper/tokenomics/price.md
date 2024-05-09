@@ -15,4 +15,4 @@ With 21% of the total supply for sale, the price range of each NAT token will be
 
 Notes: 
 1. Considering a ICP/USD ratio of $ 15,00
-2. Assuming 65,000 ICP as the Neuro Fund (NF) participation; however, this value can fluctuate daily and will only be known exactly when the swap ends.
+2. Assuming 65,000 ICP as the Neuron Fund (NF) participation; however, this value can fluctuate daily and will only be known exactly when the swap ends.
