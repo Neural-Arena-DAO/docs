@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Game canisters
 
-The game canisters are where the game instances (the matches) are executed. **All matches run entirely on-chain, even if they involve dozens of players and may take several minutes to complete**. This is made possible by using compute slices that ensure they won't exceed the IC instruction limits.
+The game canisters are where the game instances (the matches) are executed. **All matches run entirely on-chain, even if they involve dozens of players and may take several minutes to complete**. This is made possible by using deterministic time slicing, a feature that exists only on the Internet Computer, ensuring they won't exceed the instruction limits of each block.
 
 They also tell the platform where to find the assets needed to display the matches and **specifies the skills that an NFT player needs to possess** in order to participate.
 
