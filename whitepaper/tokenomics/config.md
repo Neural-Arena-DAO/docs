@@ -16,9 +16,9 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Initial reward rate | 4% |
 | Final reward rate | 2% |
 | Reward transition duration | 4 years |
-| Ledger transaction fee (NAT) | 0.01 |
-| Proposal rejection fee (NAT) | 100 |
-| Minimum direct participation (ICP) | 150,000 |
+| Ledger transaction fee (NAT) | 0.001 |
+| Proposal rejection fee (NAT) | 10 |
+| Minimum direct participation (ICP) | 100,000 |
 | Maximal direct participation (ICP) | 300,000 |
 | Minimum individual participation (ICP) | 1 |
 | Maximal individual participation (ICP) | 100,000 |

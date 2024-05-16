@@ -20,7 +20,7 @@ As with any organization, the DAO will need to compensate its team of collaborat
 
 Each proposal should outline the activities, milestones, and resources required to achieve the goals. The initial plan is to propose budget allocations every 6 months.
 
-The initial strategy involves allocating 60% of the ICP treasury over a **span of four years** to support the development and maintenance of the platform, marketing campaigns, and creation of games and NFTs owned by the DAO. We plan to allocate 25% in the first year to drive the initial growth of the app with the team expansion, gradually reducing to 20%, 10%, and finally 5% in the fourth year. By then, we hope that the revenue generated from app fees and DAO-owned games and NFTs will cover the ongoing expenses.
+The initial strategy involves allocating 80% of the ICP treasury over a **span of four years** to support the development and maintenance of the platform, marketing campaigns, and creation of games and NFTs owned by the DAO. We plan to allocate 30% in the first year to drive the initial growth of the app with the team expansion, gradually reducing to 25%, 15%, and finally 10% in the fourth year. By then, we hope that the revenue generated from app fees and DAO-owned games and NFTs will cover the ongoing expenses.
 
 ### Championships
 
