@@ -65,6 +65,15 @@ const config: Config = {
         sidebarPath: './sidebars.ts',
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'pitchdeck',
+        path: 'pitchdeck',
+        routeBasePath: "pitchdeck",
+        sidebarPath: './sidebars.ts',
+      },
+    ]
   ],
 
   themeConfig: {
@@ -89,6 +98,12 @@ const config: Config = {
           label: '📖 Whitepaper',
           activeBasePath: 'whitepaper',
           to: 'whitepaper/intro',
+        },
+        {
+          position: 'left',
+          label: '🖼 Pitchdeck',
+          activeBasePath: 'pitchdeck',
+          to: 'pitchdeck/intro',
         },
         {
           position: 'right',
@@ -116,6 +131,10 @@ const config: Config = {
         {
           items: [
             {
+              label: '🖼 Pitchdeck',
+              to: 'pitchdeck/intro',
+            },
+            {
               label: '📰 Blog',
               to: 'blog',
             },
@@ -129,7 +148,7 @@ const config: Config = {
             },
             {
               label: '👨‍💻 GitHub',
-              href: 'https://github.com/av1ctor/neuralarena-docs',
+              href: 'https://github.com/Neural-Arena-DAO/docs',
             },
           ],
         },

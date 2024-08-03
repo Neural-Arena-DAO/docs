@@ -30,6 +30,15 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
+    title: 'Pitchdeck',
+    url: 'pitchdeck/intro',
+    icon: '🖼',
+    description: (
+      <center>
+      </center>
+    ),
+  },
+  {
     title: 'Blog',
     url: 'blog',
     icon: '📰',
