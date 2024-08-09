@@ -10,11 +10,11 @@ Anyone will be able stake NAT to earn new NAT in the form of voting rewards. Sta
 
 ## Voting power
 
-With the parameters defined at the configuration page, the voting power at genesis will be divided between the sale participants and the founding team (assuming 100% of participation) as follows:
+With the parameters defined at the configuration page, the voting power at genesis will be divided between the sale participants and the founding team/seed funders (assuming 100% of participation) as follows:
 
 ![voting power at TGE](./img/voting-power-tge.png)
 
-In conclusion, as illustrated in the chart above, the team will possess less voting power than the other participants: 48.06% vs 51.94%.
+In conclusion, as illustrated in the chart above, the team and funders will possess less voting power than the other participants: 49.15% vs 50.85%.
 
 ## First proposals
 
