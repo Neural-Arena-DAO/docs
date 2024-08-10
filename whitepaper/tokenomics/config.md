@@ -10,7 +10,7 @@ The initial configuration parameters of the SNS decentralization sale/swap will 
 | Description | Value |
 | ----------- | ----: |
 | Supply at genesis (NAT) | 100,000,000 |
-| Tokens for sale (NAT) | 25,000,000 |
+| Tokens for sale (NAT) | 28,000,000 |
 | Founding team balance (NAT) | 15,000,000 |
 | Seed funders balance (NAT) | 12,000,000 |
 | Community airdrop (NAT) | 2,000,000 |
